@@ -14,7 +14,7 @@ An installed copy of [python](https://www.python.org/downloads/)
 
 Clone the following github repository. 
 
-`https://github.com/Samuel027/programming-logic-tdd-git-version-control.git`
+`https://github.com/Samuel027/weatherAPI.git`
 
 ## Running the Application
 
