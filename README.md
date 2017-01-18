@@ -1,4 +1,4 @@
-# An application that fetches data from a weather API
+# An Application that Fetches Data from a Weather API
 
 A simple command line application that consumes a Public API using a HTTP client library
 
